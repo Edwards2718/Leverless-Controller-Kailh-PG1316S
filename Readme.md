@@ -1,5 +1,5 @@
 # Leverless Controller using Kailh PG1316S Switches
-![IMG_20250601_124634483](https://github.com/user-attachments/assets/7bd52158-d040-49ae-baf3-c61688b06f6a)
+![IMG_20250601_125428882](https://github.com/user-attachments/assets/3281f8af-c7a5-4883-963a-b6ac18b1b58f)
 ![IMG_20250601_132939397](https://github.com/user-attachments/assets/e4e7f3a8-3f29-4d39-ae58-e3a610ff5cce)
 
 This is a leverless controller using Kailh PG1316S Switches. This design was inspired by the [Mpress Nano](https://paradisearcadeshop.com/collections/mpress-nano/products/mpress-nano-leverless-gaming-controller), the [ULP Dactyl](https://github.com/jonboh/ulp-dactyl), and [u/dynam1keNL](https://www.reddit.com/user/dynam1keNL/)’s work. It’s basically a keyboard that uses a Nice Nano v2 microcontroller.
