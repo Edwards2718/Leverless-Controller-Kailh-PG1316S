@@ -4,7 +4,7 @@
 
 This is a leverless controller using Kailh PG1316S Switches. This design was inspired by the [Mpress Nano](https://paradisearcadeshop.com/collections/mpress-nano/products/mpress-nano-leverless-gaming-controller), the [ULP Dactyl](https://github.com/jonboh/ulp-dactyl), and [u/dynam1keNL](https://www.reddit.com/user/dynam1keNL/)’s work. It’s basically a keyboard that uses a Nice Nano v2 microcontroller.
 
-I prefer to have thumb keys to be angled, hence the thumb module choice over traditional leverless controllers.
+I prefer to have thumb keys to be angled, hence the thumb module's choice over traditional leverless controllers.
 
 A few notes:
 
