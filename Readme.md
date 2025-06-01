@@ -1,3 +1,5 @@
+# Leverless Controller using Kailh PG1316S Switches
+
 This is a leverless controller using Kalih PG1316S Switches. This design was inspired by the Mpress Nano, the ULP Dactyl, and u/dynam1keNL’s work. It’s basically a keyboard that uses a Nice Nano v2 microcontroller.
 
 I prefer to have thumb keys to be angled, hence the thumb module choice over traditional leverless controllers.
